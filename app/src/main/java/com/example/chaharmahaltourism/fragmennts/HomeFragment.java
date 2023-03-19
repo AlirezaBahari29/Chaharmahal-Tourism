@@ -1,4 +1,4 @@
-package com.example.chaharmahaltourism;
+package com.example.chaharmahaltourism.fragmennts;
 
 import android.os.Bundle;
 
@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.chaharmahaltourism.Adapters.HomeViewPagerAdapter;
+import com.example.chaharmahaltourism.R;
 import com.google.android.material.tabs.TabLayout;
 
 

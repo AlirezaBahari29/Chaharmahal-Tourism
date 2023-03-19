@@ -7,6 +7,9 @@ import androidx.viewpager.widget.ViewPager;
 import android.os.Bundle;
 
 import com.example.chaharmahaltourism.Adapters.HomeViewPagerAdapter;
+import com.example.chaharmahaltourism.fragmennts.HomeFragment;
+import com.example.chaharmahaltourism.fragmennts.MapFragment;
+import com.example.chaharmahaltourism.fragmennts.WeatherFragment;
 import com.google.android.material.tabs.TabLayout;
 
 public class MainActivity extends AppCompatActivity {
